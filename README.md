@@ -1,4 +1,4 @@
-# agc-flutter-plugin
+# agc-cordova-plugin
 [![license](https://img.shields.io/badge/license-Apache--2.0-green)](./LICENCE)
 
 This repo contains the source code for AGC reactnative-plugin Demos, which are developed by the AppGallery Connect team.
@@ -11,9 +11,9 @@ about demos, and how to use them, see
 ## Introduction
 These are the available plugins in this repository.
 
-| Demo | Version | Documentation |
-|--------|-----|-----|
-| [agc-remoteconfig-reactnative](./agc-remoteconfig-reactnative) | [![version](https://img.shields.io/badge/Release-1.1.0-yellow)](./agc-remoteconfig-reactnative) | [Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-remoteconfig-reactnative-usage-0000001064327774) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/reactnative-remoteconfig-overview-0000001064117289) |
+| Demo | Version | Download | Documentation |
+|--------|-----|-----|-----|
+| [agc-remoteconfig-reactnative](./agc-remoteconfig-reactnative) | [![version](https://img.shields.io/badge/Release-1.1.0-yellow)](./agc-remoteconfig-reactnative) | [![Download](https://img.shields.io/badge/Download-5-yellow)](https://www.npmjs.com/package/@cordova-plugin-agconnect/remoteconfig) |[Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-remoteconfig-reactnative-usage-0000001064327774) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/reactnative-remoteconfig-overview-0000001064117289) |
 | [agc-remoteconfig-cordova](./agc-remoteconfig-cordova) | [![version](https://img.shields.io/badge/Release-1.1.0-yellow)](./agc-remoteconfig-cordova) | [Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-crash-reactnative-usage-0000001063728095) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/overview-reactnative-0000001063400167) |
 
 ## Precautions
