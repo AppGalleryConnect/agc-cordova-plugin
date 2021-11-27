@@ -1,9 +1,9 @@
 {
-  "name": "cordova-agc-auth-demo",
-  "displayName": "AGCAuthDemo",
-  "version": "1.2.0-300",
+  "name": "cordova-agc-clouddb-demo",
+  "displayName": "AGCCloudDBDemo",
+  "version": "1.0.0-300",
   "author": "agc",
-  "description": "A demo application which shows the usage of @cordova-plugin-agconnect/auth",
+  "description": "A demo application which shows the usage of @cordova-plugin-agconnect/clouddb",
   "homepage": "https://developer.huawei.com/consumer/en/agconnect/",
   "license": "Apache-2.0",
   "licenseFilename": "LICENCE",
@@ -11,9 +11,9 @@
   "main": "./www/js/index.js",
   "keywords": [
     "ecosystem:cordova",
-    "auth",
-    "huawei-auth",
-    "agc-auth"
+    "clouddb",
+    "huawei-clouddb",
+    "agc-clouddb"
   ],
   "devDependencies": {
     "cordova-plugin-whitelist": "^1.3.4"
@@ -29,6 +29,8 @@
     "config.xml",
     "LICENCE",
     "package.json",
-    "README.md"
+    "README.md",
+    "img",
+    "CloudDBQuickStart_1.json"
   ]
 }
