@@ -13,7 +13,7 @@ These are the available plugins in this repository.
 
 | Demo | Version | Documentation |
 |--------|-----|-----|
-| [apms](./apm) | [![version]()](./apm)|  |
+| [apms](./apm) |  |  |
 | [applinking](./applinking) | [![version](https://img.shields.io/badge/Release-1.2.0-yellow)](./applinking)| [Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-applinking-introduction-0000001054143215) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/cordova-applinking-overview-0000001070430695) |
 | [appmessaging](./appmessaging) | [![version](https://img.shields.io/badge/Release-1.2.0-yellow)](./appmessaging)| [Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-appmessage-introduction-0000001071884501) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/cordova-appmessaging-overview-0000001066334212) |
 | [authservice](./authservice) | [![version](https://img.shields.io/badge/Release-1.2.0-yellow)](./authservice)| [Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-auth-introduction-0000001053732605) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/cordova-auth-overview-0000001071660125) |
